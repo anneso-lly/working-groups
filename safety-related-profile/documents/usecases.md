@@ -8,6 +8,7 @@ YOLOv8n (nano version of YOLOv8) quantized 8-bit
 ![image](https://github.com/user-attachments/assets/429355d0-1d1a-4089-b7e2-40f5c6661dcc)
 
 ## Operators
+
 - Convolution
 - Batch Normalization
 - SiLu
@@ -17,6 +18,7 @@ YOLOv8n (nano version of YOLOv8) quantized 8-bit
 - MaxPool
 - Upsample
 - QuantizeLinear (after Post-Training Quantization)
+
 
 # Use case `Tracking with VideoSwin` - `CSGROUP`
 
